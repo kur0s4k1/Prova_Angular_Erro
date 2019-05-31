@@ -1,0 +1,14 @@
+@Injectable()
+@angular/core
+@angular/common/http
+@NgModule
+rxjs/operators
+pipe()
+take()
+const routes: Routes;
+RouterModule.forRoot(routes)]
+@Component
+selector
+templateUrl
+styleUrls
+export
